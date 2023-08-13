@@ -1,0 +1,126 @@
+
+
+ NUMBER OF NODE----------------------------------------------NP=   45
+ NUMBER OF ELEMENT-------------------------------------------NE=   32
+ NUMBER OF MATERIAL------------------------------------------NM=    1
+ NUMBER OF CONSTRAINT----------------------------------------NR=    5
+ NUMBER OF WATER PRESS KIND----------------------------------NW=    0
+ NUMBER OF CONCENTRATE LOAD----------------------------------NF=    0
+ PLANE STRESS OR PLANE STAIN---------------------------------NI=    0
+ NUMBER OF KNOWN-DISPLACEMENT--------------------------------NDP=    0
+ NUMBER OF ELEMENT WITH DISTRIBUTING FORCE OR HYDROPRESS----NESW=    8
+
+ Node NO.  X-Coordinat  Y-Coordinat
+     1            0.0000        0.0000
+     2            0.0000        0.5000
+     3            0.0000        1.0000
+     4            0.0000        1.5000
+     5            0.0000        2.0000
+     6            1.0000        0.0000
+     7            1.0000        0.5000
+     8            1.0000        1.0000
+     9            1.0000        1.5000
+    10            1.0000        2.0000
+    11            2.0000        0.0000
+    12            2.0000        0.5000
+    13            2.0000        1.0000
+    14            2.0000        1.5000
+    15            2.0000        2.0000
+    16            3.0000        0.0000
+    17            3.0000        0.5000
+    18            3.0000        1.0000
+    19            3.0000        1.5000
+    20            3.0000        2.0000
+    21            4.0000        0.0000
+    22            4.0000        0.5000
+    23            4.0000        1.0000
+    24            4.0000        1.5000
+    25            4.0000        2.0000
+    26            5.0000        0.0000
+    27            5.0000        0.5000
+    28            5.0000        1.0000
+    29            5.0000        1.5000
+    30            5.0000        2.0000
+    31            6.0000        0.0000
+    32            6.0000        0.5000
+    33            6.0000        1.0000
+    34            6.0000        1.5000
+    35            6.0000        2.0000
+    36            7.0000        0.0000
+    37            7.0000        0.5000
+    38            7.0000        1.0000
+    39            7.0000        1.5000
+    40            7.0000        2.0000
+    41            8.0000        0.0000
+    42            8.0000        0.5000
+    43            8.0000        1.0000
+    44            8.0000        1.5000
+    45            8.0000        2.0000
+    NEE= NOD= NME= NET=
+       1    1    6    7    2    1    0
+    NEE= NOD= NME= NET=
+       2    2    7    8    3    1    0
+    NEE= NOD= NME= NET=
+       3    3    8    9    4    1    0
+    NEE= NOD= NME= NET=
+       4    4    9   10    5    1    0
+    NEE= NOD= NME= NET=
+       5    6   11   12    7    1    0
+    NEE= NOD= NME= NET=
+       6    7   12   13    8    1    0
+    NEE= NOD= NME= NET=
+       7    8   13   14    9    1    0
+    NEE= NOD= NME= NET=
+       8    9   14   15   10    1    0
+    NEE= NOD= NME= NET=
+       9   11   16   17   12    1    0
+    NEE= NOD= NME= NET=
+      10   12   17   18   13    1    0
+    NEE= NOD= NME= NET=
+      11   13   18   19   14    1    0
+    NEE= NOD= NME= NET=
+      12   14   19   20   15    1    0
+    NEE= NOD= NME= NET=
+      13   16   21   22   17    1    0
+    NEE= NOD= NME= NET=
+      14   17   22   23   18    1    0
+    NEE= NOD= NME= NET=
+      15   18   23   24   19    1    0
+    NEE= NOD= NME= NET=
+      16   19   24   25   20    1    0
+    NEE= NOD= NME= NET=
+      17   21   26   27   22    1    0
+    NEE= NOD= NME= NET=
+      18   22   27   28   23    1    0
+    NEE= NOD= NME= NET=
+      19   23   28   29   24    1    0
+    NEE= NOD= NME= NET=
+      20   24   29   30   25    1    0
+    NEE= NOD= NME= NET=
+      21   26   31   32   27    1    0
+    NEE= NOD= NME= NET=
+      22   27   32   33   28    1    0
+    NEE= NOD= NME= NET=
+      23   28   33   34   29    1    0
+    NEE= NOD= NME= NET=
+      24   29   34   35   30    1    0
+    NEE= NOD= NME= NET=
+      25   31   36   37   32    1    0
+    NEE= NOD= NME= NET=
+      26   32   37   38   33    1    0
+    NEE= NOD= NME= NET=
+      27   33   38   39   34    1    0
+    NEE= NOD= NME= NET=
+      28   34   39   40   35    1    0
+    NEE= NOD= NME= NET=
+      29   36   41   42   37    1    0
+    NEE= NOD= NME= NET=
+      30   37   42   43   38    1    0
+    NEE= NOD= NME= NET=
+      31   38   43   44   39    1    0
+    NEE= NOD= NME= NET=
+      32   39   44   45   40    1    0
+
+                    Material Properties
+  N.M.     Youngs Moudlus     Poision ratio    Unit Weight    Width
+     1      0.2000E+07      0.3000E+00      0.0000E+00      0.1000E+01
